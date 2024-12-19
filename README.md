@@ -1,1 +1,1 @@
-# MACFIV
+This repository contains code necessary to reproduce the results in the manuscript: A Model-Averaged Control Function Approach for Nonlinear Mendelian Randomization with Many Weak and Invalid Instruments
